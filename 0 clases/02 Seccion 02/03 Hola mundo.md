@@ -81,8 +81,11 @@ void main() {
 }
 ```
 
->[!NOTE] constantes se agrega en tiempo de construcción: const
->[!NOTE] final se agrega en tiempo de ejecución
+>[!NOTE] 
+> *constantes* se agrega en tiempo de construcción: const
+
+>[!NOTE] 
+> *final* se agrega en tiempo de ejecución
 
 ### Interpolación de cadenas
 
@@ -131,4 +134,5 @@ void main() {
 
 ejemplo usa snake_case
 
->[!NOTE] 01_hello_world.dart
+>[!NOTE] 
+>01_hello_world.dart
