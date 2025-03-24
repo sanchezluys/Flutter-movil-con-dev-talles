@@ -1,7 +1,7 @@
 Instalaciones necesarias
 ========================
 
-link youtube: https://www.youtube.com/watch?v=L5XtB1G2k9E&list=PLCKuOXG0bPi0sIn-nDsi7ma9OV6MEMkxj&index=4
+link youtube: [clase 0](https://www.youtube.com/watch?v=L5XtB1G2k9E&list=PLCKuOXG0bPi0sIn-nDsi7ma9OV6MEMkxj&index=4)
 
 En este curso vamos a trabajar con Flutter, un framework de Google para desarrollar aplicaciones móviles multiplataforma. Para poder seguir este curso necesitarás tener instalado en tu ordenador:
 
@@ -76,6 +76,6 @@ Xcode es un entorno de desarrollo integrado (IDE) para macOS que contiene un con
 
 Flutter es un framework de código abierto desarrollado por Google para crear aplicaciones para Android y iOS. Flutter utiliza el lenguaje de programación Dart.
 
-[text](https://docs.flutter.dev/get-started/install)
+[flutter instalar](https://docs.flutter.dev/get-started/install)
 
-[text](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.29.2-stable.zip)
+[flutter windows](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.29.2-stable.zip)
