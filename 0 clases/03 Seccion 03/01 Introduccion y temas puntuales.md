@@ -15,4 +15,3 @@ Introducción y temas puntuales
 2. Instalar emuladores
 3. Configurar emuladores
 4. Instalar y configurar dispositivos físicos
-
