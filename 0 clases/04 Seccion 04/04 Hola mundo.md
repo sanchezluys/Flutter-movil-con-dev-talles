@@ -7,8 +7,9 @@ se inicia con el archivo en lib->main.dart
 
 ## Atajos útiles
 
-1. `CTRL`+ CLICK : muestra el contenido del widget u o objeto
-2. `CTRL`+ `.`  : muestra las opciones rápidas para agregar código, se debe parar en el widget
+1. `CTRL` + CLICK : muestra el contenido del widget u o objeto
+2. `CTRL` + `.`  : muestra las opciones rápidas para agregar código, se debe parar en el widget
+3. `CTRL` + `Espaciadora` : muestra los métodos y argumentos disponibles en ese sitio del objeto
 
 Usando el siguiente código:
 
